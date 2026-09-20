@@ -134,7 +134,7 @@ Telecom-Customer-Churn-Prediction/
 │
 ├── Telecom_Customer_Churn.ipynb
 ├── Telecom_Customer_Churn.py
-├── Telecom_Customer_Churn_Report.pdf
+├── Telecom_Customer.pdf
 └── README.md
 ```
 
